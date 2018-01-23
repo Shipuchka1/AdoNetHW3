@@ -146,6 +146,8 @@ namespace AdoNetHW3
             refui(t.Content.ToString(),"");
         }
 
+
+
         private void Update_Click(object sender, RoutedEventArgs e)
         {
             con.Open();
